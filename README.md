@@ -1,0 +1,2 @@
+# DjangoProject
+For Learning Puropse
